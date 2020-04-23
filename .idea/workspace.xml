@@ -2,10 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2532c2f-b727-47a9-ae6c-0f620ccbe836" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/WebScraping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebScraping.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture14.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture16.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture18.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture19.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture20.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture22.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture24.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture25.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture26.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture9.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,21 +130,21 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1887" height="221" key="GridCell.Tab.0.bottom" timestamp="1587667755762">
+    <state width="1887" height="221" key="GridCell.Tab.0.bottom" timestamp="1587669023663">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1887" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1587667755762" />
-    <state width="1887" height="221" key="GridCell.Tab.0.center" timestamp="1587667755761">
+    <state width="1887" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1587669023663" />
+    <state width="1887" height="221" key="GridCell.Tab.0.center" timestamp="1587669023661">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1887" height="221" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1587667755761" />
-    <state width="1887" height="221" key="GridCell.Tab.0.left" timestamp="1587667755761">
+    <state width="1887" height="221" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1587669023661" />
+    <state width="1887" height="221" key="GridCell.Tab.0.left" timestamp="1587669023659">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1887" height="221" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1587667755761" />
-    <state width="1887" height="221" key="GridCell.Tab.0.right" timestamp="1587667755762">
+    <state width="1887" height="221" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1587669023659" />
+    <state width="1887" height="221" key="GridCell.Tab.0.right" timestamp="1587669023662">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1887" height="221" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1587667755762" />
+    <state width="1887" height="221" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1587669023662" />
   </component>
 </project>
