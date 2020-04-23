@@ -2,13 +2,14 @@ from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
+import os.path
 import re
 import urllib.request
 
 from URLGet import *
-prefixlink = "https://www.eecs.yorku.ca/course_archive/2011-12/W/4313/slides/"
+prefixlink = "https://www.cs.cmu.edu/~16385/s19/lectures/"
 downloadlink = []
-raw_html = simple_get('https://www.eecs.yorku.ca/course_archive/2011-12/W/4313/slides/')
+raw_html = simple_get('https://www.cs.cmu.edu/~16385/s19/lectures/')
 html = BeautifulSoup(raw_html, 'html.parser')
 filenames = []
 match = re.compile('\.(pdf)')
@@ -26,4 +27,10 @@ for x in range(len(downloadlink)):
 
 
 for x in range(len(downloadlink)):
-    urllib.request.urlretrieve(downloadlink[x], filenames[x] )
+
+
+    if os.path.isfile(filenames[x]):#only download new files
+        print("File exist")
+    else:
+        print("File not exist")
+        urllib.request.urlretrieve(downloadlink[x], filenames[x] )
